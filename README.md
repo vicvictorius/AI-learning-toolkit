@@ -1,4 +1,4 @@
-# Manware's AI Learning Toolkit
+# AI Learning Toolkit
 
 A customization that turns AI into a **learning companion** instead of a code generator. It makes you think, predict, and reason — while AI guides, questions, and diagnoses.
 
